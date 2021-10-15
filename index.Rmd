@@ -1,0 +1,28 @@
+---
+title: "GSD MUP Spatial Analysis Portfolio"
+author: "M.C. Abbott"
+date: "October 2021"
+output: 
+  rmdformats::downcute
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Introduction
+
+ABC
+
+* maps
+
+# Chelsea On Fire
+**How have Chelsea’s historic fires shaped its urban form and function? What role does insurance as a financial product have on the urban form?**
+
+Our group began with an interest in the impact of two significant fires on the city of Chelsea. In our research with the maps librarians, we encountered Sanborn Maps and the detailed accounting that came about with the expansion of property insurance beginning in the late 1800s. Produced by the Sanborn Map Company, these widely spread and intricately detailed city maps were produced for insurance companies in order to assess their liability and maintain a record in the event of a fire incident. Liability details went beyond addresses, owners and floor plans to include the location of fire escapes, the presence of sprinklers, and even the kinds of cladding on windows. Our basemap is a historic map from 1935. 
+
+[![](thumbnails/chelsea_thumbnail.png)](https://mcmcmca.github.io/mca_portfolio/fullsize/chelsea_fullsize.pdf){target="_blank"}
+
+*This interactive map demonstrates the following skills*
+
+* Georeferencing a raster image
